@@ -478,7 +478,7 @@ public class App {
         boolean isRunning = true;
 
         while(isRunning){
-            System.out.println("=== STUDENT GRADE SYSTEM v2===");
+            System.out.println("=== STUDENT GRADE SYSTEM v2 - PR PRACTICE===");
             System.out.println("1. Add Student");
             System.out.println("2. View Students");
             System.out.println("3. Search Student");
